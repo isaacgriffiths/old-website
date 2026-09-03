@@ -1,36 +1,17 @@
-# Isaac Griffiths - Personal [Website](https://isaacgriffiths.com)
+# isaacgriffiths.com (original static version)
 
-A minimalist personal website showcasing my professional identity in tech and automation.
+This repository holds the first version of my personal site: a single hand-written HTML page with one stylesheet, no build step and no framework.
 
-## Features
+- Inter typography, a custom cursor with a light effect on desktop, and social links drawn as inline SVG.
+- Responsive without a framework. The cursor effect is switched off on touch devices.
 
-- Modern, Apple-inspired typography using Inter font
-- Custom cursor with light effect on desktop devices
-- Responsive design that adapts to all screen sizes
-- Social media links to connect across platforms
-- Clean, distraction-free interface
+The site that is live at [isaacgriffiths.com](https://isaacgriffiths.com) today is a later rebuild: a Next.js static export deployed to Cloudflare Pages, with the CV served from a private R2 bucket. That source is not published here.
 
-## Technologies Used
+## Running this version
 
-- HTML5
-- CSS3 with Tailwind utility classes
-- Vanilla JavaScript for interactive elements
-- Responsive design without frameworks
-- Custom SVG icons for social links
-
-## Development
-
-The site intentionally uses minimal dependencies, making it easy to maintain and fast to load. The custom cursor effect is disabled on mobile devices for better user experience.
+Open `index.html` in a browser. There is nothing to install.
 
 ## Connect
 
-Feel free to connect with me on:
-
 - [LinkedIn](https://www.linkedin.com/in/isaacgriffiths/)
 - [GitHub](https://github.com/isaacgriffiths)
-- [TikTok](https://www.tiktok.com/@isaacgriffiths)
-- [Instagram](https://www.instagram.com/isaacrgriffiths/)
-
-## License
-
-© 2023 Isaac Griffiths. All rights reserved. 
